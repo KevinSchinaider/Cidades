@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Cidades Litoral Sul SP:");
+Console.WriteLine("Bertioga");
+Console.WriteLine("Guarujá");
+Console.WriteLine("Santos");
+Console.WriteLine("São Vicente");
+Console.WriteLine("Praia Grande");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Itanhaém");
+Console.WriteLine("Peruíbe");
+Console.WriteLine("Iguape");
+Console.WriteLine("Cananéia");
+Console.WriteLine("Ilha Comprida");
